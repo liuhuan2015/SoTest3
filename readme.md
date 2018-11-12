@@ -1,0 +1,1 @@
+参照文章[Android studio 3.0 JNI开发生成so详细教程](https://blog.csdn.net/mayohn/article/details/82152360)
